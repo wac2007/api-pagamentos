@@ -1,0 +1,20 @@
+{
+  "name": "api-pagamentos",
+  "version": "1.0.0",
+  "description": "gateway para pagamento atraves de recursos http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gateway",
+    "pagamentos",
+    "api"
+  ],
+  "author": "Wallace Coelho",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.4",
+    "express": "^4.15.2"
+  }
+}
